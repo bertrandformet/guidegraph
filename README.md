@@ -79,11 +79,11 @@ guidegraph.html
 
 ---
 
-## Cahier des charges
+## Référentiel
 
 L'outil est fondé sur un référentiel de bonnes pratiques appuyé sur des sources expertes :
 
-→ **[Lire le cahier des charges complet](cahier-des-charges.md)**
+→ **[Lire le référentiel](referentiel.md)]**
 
 Sources principales :
 - Bertin, J. (1967). *Sémiologie graphique*
