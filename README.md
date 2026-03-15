@@ -2,6 +2,7 @@
 
 **Créateur d'infographies institutionnelles pas à pas**  
 Preuve de concept · Licence CC BY 4.0 · Auteur : Bertrand Formet · v1 · Mars 2026
+Co-développé avec Claude Sonnet 4.6
 
 ---
 
