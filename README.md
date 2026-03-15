@@ -23,7 +23,8 @@ L'outil guide l'utilisateur en **6 étapes** :
 
 ## Démo
 
-Ouvrir `guidegraph.html` dans n'importe quel navigateur moderne. Aucune dépendance externe.
+Télécharger `index.html` et l'ouvrir dans n'importe quel navigateur moderne. Aucune dépendance externe.
+En ligne : [https://bertrandformet.github.io/guidegraph/](https://bertrandformet.github.io/guidegraph/])
 
 ---
 
@@ -84,7 +85,7 @@ guidegraph.html
 
 L'outil est fondé sur un référentiel de bonnes pratiques appuyé sur des sources expertes :
 
-→ **[Lire le référentiel](referentiel.md)]**
+→ **[Lire le référentiel](referentiel.md)**
 
 Sources principales :
 - Bertin, J. (1967). *Sémiologie graphique*
